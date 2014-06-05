@@ -19,10 +19,9 @@
  }
  #header {
  	display: inline-block;
-	margin: 10px 24px 10px;
+	margin: 10px auto 10px;
 	position: relative;
 	zoom: 1.05;
-	float: left;
  }
  body {
  	background-size: cover;
@@ -103,3 +102,22 @@
 	float:right;
 	width:70%;
 }
+.local-container {
+	margin-top: 110px;
+}
+/**
+ * styles for work
+ */
+ p{
+ 	font-family: serif;
+ }
+ .work-title p {
+ 	border-bottom: 1px solid white;
+	text-align: left;
+	float：left;
+	margin-bottom: -4px;
+	font-size: 21px;
+	font-family: serif;
+	padding-left: 50px;
+
+ }
